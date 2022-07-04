@@ -19,5 +19,5 @@ Content-Type: application/json
 
 {
     "name": "Efosa",
-    "number": "+23481_4337_6180"
+    "number": "+23481_4337"
 }
