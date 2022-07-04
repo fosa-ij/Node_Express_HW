@@ -1,0 +1,4 @@
+node_modules
+response_files
+exercises/phonebook_backend_step1/node_modules
+# exercises/phonebook_backend_step1/response.rest

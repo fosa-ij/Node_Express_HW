@@ -1,0 +1,15 @@
+POST http://localhost:3001/api/notes
+Content-Type: application/json
+
+{
+    "content": "VS Code REST client is preferred to postman agent, because the requests are handily available at the root of the project repository, and they can be distributed to everyone in the development team. you can also add a multiple requests in the same file using '###' separators",
+    "important": true
+}
+
+###
+
+GET http://localhost:3001/api/notes
+
+###
+
+DELETE http://localhost:3001/api/notes/4
